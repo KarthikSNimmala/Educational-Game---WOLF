@@ -1,0 +1,5 @@
+Wolf Adventure was made in 2021 by Elizabeth Perkinson and Robert Rattray.
+
+This screen will display important information about the game. 
+
+Press spacebar to exit.
